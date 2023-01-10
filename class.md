@@ -1,3 +1,2 @@
 Aryan 
-Mumbai
-Version Control
+Meta Front-End Developer
